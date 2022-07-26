@@ -64,5 +64,4 @@ In the current release, the following tools are available:
 
 ### Future Release Plans
 
-Topaz is considered an 'unstable' release under active development.
-The most recent stable release is "Elle".
+Topaz is considered an 'stable' release.
