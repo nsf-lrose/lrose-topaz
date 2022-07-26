@@ -5,7 +5,7 @@
 
 ## **LROSE Topaz** - The Lidar Radar Open Software Environment "Cyclone" Release
 
-DOI coming soon
+[![DOI](https://zenodo.org/badge/339518592.svg)](https://zenodo.org/badge/latestdoi/339518592)
 
 The fourth LROSE release is called **"Topaz"** and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
